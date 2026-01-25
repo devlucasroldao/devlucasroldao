@@ -43,3 +43,7 @@
 
 ### 📈 Em constante evolução
 Este perfil é atualizado conforme avanço nos estudos e projetos 🚀
+
+### 🎨 Projeto em destaque
+👉 [Desafio 04 - Página Estilizada](https://github.com/devlucasroldao/html-css-curso-em-video)
+
