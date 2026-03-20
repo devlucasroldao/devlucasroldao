@@ -1,45 +1,37 @@
-## Olá, eu sou o Lucas Roldão! 👋
+# Olá! Eu sou o Lucas Roldão 👋
 
-🎓 Estudante de **Análise e Desenvolvimento de Sistemas**  
-💻 Desenvolvedor **FullStack em formação**  
-📍 Arroio do Sal - RS  
+### Estudante de Análise e Desenvolvimento de Sistemas | Foco em Front-end
 
----
+A minha abordagem na tecnologia é totalmente prática: gosto de entender o funcionamento das aplicações por baixo dos panos, construindo soluções do zero e escrevendo código linha por linha. O meu foco é transformar conhecimento em soluções reais!
 
-### 🚀 Sobre mim
-- Atualmente estudando **HTML5 e CSS3**
-- Iniciando estudos em **JavaScript**
-- Focado em aprender com projetos práticos
-- Buscando evolução constante e boas práticas
+## 🚀 Sobre mim
+- 🎓 Estudante de **Análise e Desenvolvimento de Sistemas** na ULBRA.
+- 💻 Atualmente focado em criar interfaces web com **HTML5, CSS3 e JavaScript**.
+- 🌐 A desenvolver ativamente projetos reais, como sites comerciais e landing pages.
+- 🤝 Experiência prévia em suporte técnico, com forte foco na resolução de problemas e na experiência do utilizador.
+- 📫 Como contactar-me: **lucasroldao2802@gmail.com** ou através do meu [LinkedIn](https://www.linkedin.com/in/devlucasroldao).
 
----
+## 🛠️ Linguagens e Ferramentas
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+</div>
 
-### 🧠 Tecnologias em aprendizado
-<p align="left">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-</p>
+<br>
 
----
-
-### 📚 Repositórios em destaque
-- 📘 **HTML & CSS – Curso em Vídeo**  
-  Exercícios e desafios práticos do curso.
-
-- 🎓 **Faculdade ADS**  
-  Atividades e trabalhos acadêmicos organizados.
-
----
-
-### 🛠️ Ferramentas
-<p align="left">
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</p>
-
----
-
-### 📈 Em constante evolução
-Este perfil é atualizado conforme avanço nos estudos e projetos 🚀
+## 📊 As minhas Estatísticas do GitHub
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=devlucasroldao&show_icons=true&theme=radical&hide_border=true" height="150" alt="Estatísticas do Lucas" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devlucasroldao&layout=compact&theme=radical&hide_border=true" height="150" alt="Linguagens mais utilizadas" />
+</div>
