@@ -32,6 +32,6 @@ A minha abordagem na tecnologia é totalmente prática: gosto de entender o func
 
 ## 📊 As minhas Estatísticas do GitHub
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=devlucasroldao&show_icons=true&theme=radical&hide_border=true" height="150" alt="Estatísticas do Lucas" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devlucasroldao&layout=compact&theme=radical&hide_border=true" height="150" alt="Linguagens mais utilizadas" />
+  <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api?username=devlucasroldao&show_icons=true&theme=radical&hide_border=true&cache=true" height="150" alt="Estatísticas do Lucas" />
+  <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api/top-langs/?username=devlucasroldao&layout=compact&theme=radical&hide_border=true&cache=true" height="150" alt="Linguagens mais utilizadas" />
 </div>
