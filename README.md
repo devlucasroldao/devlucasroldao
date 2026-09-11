@@ -51,5 +51,3 @@ Transito entre desenvolvimento web, marketing digital e estratégia. Não me enc
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=devlucasroldao&show_icons=true&hide_border=true&bg_color=0D1B2A&title_color=52B788&icon_color=52B788&text_color=E0E1DD&hide=issues)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=devlucasroldao&layout=compact&hide_border=true&bg_color=0D1B2A&title_color=52B788&text_color=E0E1DD)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=devlucasroldao&hide_border=true&background=0D1B2A&stroke=52B788&ring=52B788&fire=F4A261&currStreakLabel=52B788&sideLabels=778DA9&dates=778DA9&currStreakNum=E0E1DD&sideNums=E0E1DD)
