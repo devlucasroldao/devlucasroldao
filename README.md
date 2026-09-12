@@ -35,19 +35,8 @@ Transito entre desenvolvimento web, marketing digital e estratégia. Não me enc
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
 
-**Conteúdo & Organização**
-
-![CapCut](https://img.shields.io/badge/CapCut-000?style=for-the-badge&logo=capcut&logoColor=white)
-![Notion](https://img.shields.io/badge/Notion-000?style=for-the-badge&logo=notion&logoColor=white)
 
 **IA**
 
 ![ChatGPT](https://img.shields.io/badge/ChatGPT-74AA9C?style=for-the-badge&logo=openai&logoColor=white)
 ![Claude](https://img.shields.io/badge/Claude-D4A574?style=for-the-badge&logoColor=white)
-
----
-
-## Estatísticas do GitHub
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=devlucasroldao&show_icons=true&hide_border=true&bg_color=0D1B2A&title_color=52B788&icon_color=52B788&text_color=E0E1DD&hide=issues)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=devlucasroldao&layout=compact&hide_border=true&bg_color=0D1B2A&title_color=52B788&text_color=E0E1DD)
