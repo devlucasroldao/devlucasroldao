@@ -1,4 +1,3 @@
-[devlucasroldao_README.md](https://github.com/user-attachments/files/32940967/devlucasroldao_README.md)
 # Lucas Roldão
 
 **Desenvolvedor Front-end** · React · Next.js · TypeScript · Tailwind CSS · Supabase
