@@ -1,42 +1,17 @@
-# Olá! Eu sou o Lucas Roldão 👋
+[devlucasroldao_README.md](https://github.com/user-attachments/files/32940967/devlucasroldao_README.md)
+# Lucas Roldão
 
-**Dev & Marketing Digital | Construindo coisas reais em público**
+**Desenvolvedor Front-end** · React · Next.js · TypeScript · Tailwind CSS · Supabase
 
-Transito entre desenvolvimento web, marketing digital e estratégia. Não me encaixo numa caixa só — e parei de tentar.
+- 🚀 Evoluí a plataforma web da Conecte Telecom (provedor com 1.000+ clientes): contratação 100% digital, painel com 2FA e analytics de conversão
+- 🛍 Desenvolvo e-commerce e landing pages para pequenos negócios
+- 📈 Venho do marketing digital: construo a página e meço a conversão
+- 🎓 Análise e Desenvolvimento de Sistemas — ULBRA
+- 📬 lucasroldao2802@gmail.com · [LinkedIn](https://www.linkedin.com/in/devlucasroldao/) · [Portfólio](https://devlucasroldao.vercel.app)
 
----
-
-## Sobre mim
-
-- 🎓 Estudante de **Análise e Desenvolvimento de Sistemas** na ULBRA
-- 💻 Desenvolvendo projetos reais — alguns já estão em produção
-- 📱 Trabalhando com marketing digital, presença digital e criação de conteúdo
-- 🔧 Usando IA no fluxo de trabalho do dia a dia
-- 📬 Contato: lucasroldao2802@gmail.com · [LinkedIn](https://linkedin.com/in/devlucasroldao)
-
----
-
-## Linguagens e Ferramentas
-
-**Dev**
-
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000?style=for-the-badge&logo=vercel&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-
-**Design**
-
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
-
-
-**IA**
-
-![ChatGPT](https://img.shields.io/badge/ChatGPT-74AA9C?style=for-the-badge&logo=openai&logoColor=white)
-![Claude](https://img.shields.io/badge/Claude-D4A574?style=for-the-badge&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
