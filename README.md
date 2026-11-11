@@ -10,13 +10,11 @@ Disponível para estágio e júnior, remoto.
 
 ### O que eu fiz
 
-🟢 **[Aval](https://meuaval.com.br)** — SaaS de aprovação de conteúdo para agências. Concebi, desenvolvi e lancei sozinho. → [Abrir a demo](https://app.meuaval.com.br/p/demo)
+**[Aval](https://meuaval.com.br)** — SaaS de aprovação de conteúdo para agências. Concebi, desenvolvi e lancei sozinho. → [Abrir a demo](https://app.meuaval.com.br/p/demo)
 
-🟢 **Conecte Telecom** — Evoluí o site de um provedor com 1.000+ clientes para uma plataforma com contratação 100% digital, painel com 2FA e analytics de conversão.
+**[Conecte Telecom](https://seconecte.net/)** — Evoluí o site de um provedor com 1.000+ clientes para uma plataforma com contratação 100% digital, painel com 2FA e analytics de conversão.
 
-🟢 **[Rabisco Prévia](https://github.com/devlucasroldao/rabisco-previa)** — A ferramenta de código aberto que deu origem ao Aval.
-
-🟢 **E-commerce e landing pages** para pequenos negócios.
+**E-commerce e landing pages** para pequenos negócios.
 
 ### De onde eu venho
 
